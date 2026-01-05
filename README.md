@@ -28,9 +28,4 @@ A simple, real-world web app to **Add, Read, Update, and Delete (CRUD) tasks**, 
 
 ---
 
-Avele, if you want, I can **also make a single README template for ALL your projects**, so your **entire GitHub portfolio looks super clean and professional**, ready to impress recruiters.  
-
-Do you want me to do that next?
-
-Live demo hosted on GitHub Pages:
 
